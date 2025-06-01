@@ -4,10 +4,10 @@
 
 ```
 To understand and explore the fundamentals of User Interface (UI) and User Experience (UX) design through practical activities, distinguish between UI and UX using real-world examples, analyze their interrelationship, and gain hands-on experience with common UI/UX design tools.
-```
 
-## Algorithm:
-```
+
+**Algorithm:**
+
 a. Explore the fundamentals of UI and UX
 Study definitions, principles, and goals of UI and UX design.
 
@@ -46,10 +46,10 @@ Design a sample screen using each tool.
 
 Compare ease of use, feature sets, and interface of each tool.
  
-```
 
-## Output:
-```
+
+** Output:**
+
 A written document/presentation explaining UI and UX fundamentals.
 
 Case study report showing UI vs UX differences.
@@ -59,9 +59,9 @@ A sample app/web design highlighting the interaction between UI and UX.
 Screenshots or recordings of designs made using Figma, Adobe XD, etc.
 
 A comparison chart of design tools
-```
-## Result:
-```
+
+**Result:**
+
 Gained a clear understanding of the concepts, roles, and importance of UI and UX in product design.
 
 Successfully differentiated between UI and UX using real-world digital products.
