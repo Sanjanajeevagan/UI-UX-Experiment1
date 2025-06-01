@@ -1,8 +1,10 @@
 # UI-UX-Experiment1
 
-## Aim:
+
 
 ```
+AIM:
+
 To understand and explore the fundamentals of User Interface (UI) and User Experience (UX) design through practical activities, distinguish between UI and UX using real-world examples, analyze their interrelationship, and gain hands-on experience with common UI/UX design tools.
 
 
